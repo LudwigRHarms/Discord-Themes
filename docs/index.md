@@ -1,3 +1,38 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>NotAnotherAnimeTheme | A easily customizable and automatically updating theme for Discord</title>
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="NotAnotherAnimeTheme" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="A easily customizable and automatically updating theme for Discord" />
+<meta property="og:description" content="A easily customizable and automatically updating theme for Discord" />
+<link rel="canonical" href="https://puckzxz.github.io/NotAnotherAnimeTheme/" />
+<meta property="og:url" content="https://puckzxz.github.io/NotAnotherAnimeTheme/" />
+<meta property="og:site_name" content="NotAnotherAnimeTheme" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="NotAnotherAnimeTheme" />
+<script type="application/ld+json">
+{"headline":"NotAnotherAnimeTheme","description":"A easily customizable and automatically updating theme for Discord","url":"https://puckzxz.github.io/NotAnotherAnimeTheme/","@type":"WebSite","name":"NotAnotherAnimeTheme","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/NotAnotherAnimeTheme/assets/css/style.css?v=e442e8b49a87f310c4d095cc383d2be6fba4305e">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/NotAnotherAnimeTheme/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
 </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
