@@ -1,4 +1,3 @@
-!DOCTYPE HTML
-<p
-<link rel="canonical" href="https://ludwigrharms.github.io/discord-themes/" />
-/>
+<!DOCTYPE HTML>
+<a href="https://raw.githubusercontent.com/LudwigRHarms/discord-themes/main/Cherry%20Blossom/v1/cb.css"> https://raw.githubusercontent.com/LudwigRHarms/discord-themes/main/Cherry%20Blossom/v1/cb.css </a>
+
