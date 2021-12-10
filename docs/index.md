@@ -1,175 +1,899 @@
+.appMount-3lHmkl {
+  background-image: var(--theme-background-image);
+  background-size: cover;
+}
 
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+.tutorialContainer-2sGCg9 .wrapper-25eVIn .childWrapper-anI2G9 {
+  background: var(--home-icon-image) !important;
+  background-position: var(--home-icon-image-position) !important;
+  background-repeat: no-repeat !important;
+  background-size: var(--home-icon-image-zoom) !important;
+  border-radius: 100%;
+}
 
-<!-- Begin Jekyll SEO tag v2.7.1 -->
-<title>NotAnotherAnimeTheme | A easily customizable and automatically updating theme for Discord</title>
-<meta name="generator" content="Jekyll v3.9.0" />
-<meta property="og:title" content="NotAnotherAnimeTheme" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="A easily customizable and automatically updating theme for Discord" />
-<meta property="og:description" content="A easily customizable and automatically updating theme for Discord" />
-<link rel="canonical" href="https://puckzxz.github.io/NotAnotherAnimeTheme/" />
-<meta property="og:url" content="https://puckzxz.github.io/NotAnotherAnimeTheme/" />
-<meta property="og:site_name" content="NotAnotherAnimeTheme" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="NotAnotherAnimeTheme" />
-<script type="application/ld+json">
-{"headline":"NotAnotherAnimeTheme","description":"A easily customizable and automatically updating theme for Discord","url":"https://puckzxz.github.io/NotAnotherAnimeTheme/","@type":"WebSite","name":"NotAnotherAnimeTheme","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
+.tutorialContainer-2sGCg9
+  .wrapper-25eVIn
+  .childWrapper-anI2G9
+  .homeIcon-FuNwkv {
+  visibility: hidden;
+}
 
-    <link rel="stylesheet" href="/NotAnotherAnimeTheme/assets/css/style.css?v=e442e8b49a87f310c4d095cc383d2be6fba4305e">
-    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+.tutorialContainer-2sGCg9
+  .listItem-GuPuDH
+  .listItemWrapper-KhRmzM
+  .wrapper-1BJsBx
+  .childWrapper-anI2G9 {
+  background-color: transparent;
+}
 
-<!-- Setup Google Analytics -->
+.homeIcon-tEMBK1 {
+  visibility: hidden;
+}
 
+.tutorialContainer-2sGCg9
+  .listItem-GuPuDH
+  .listItemWrapper-KhRmzM
+  .wrapper-1BJsBx
+  svg {
+  opacity: 0;
+}
 
+.titleBar-AC4pGV {
+  background-color: transparent;
+}
 
-<!-- You can set your favicon here -->
-<!-- link rel="shortcut icon" type="image/x-icon" href="/NotAnotherAnimeTheme/favicon.ico" -->
+.app-2rEoOp {
+  background-color: transparent;
+}
 
-<!-- end custom head snippets -->
+.bg-h5JY_x {
+  background-color: var(--theme-transparency);
+}
 
-  </head>
-  <body>
-    <div class="container-lg px-3 my-5 markdown-body">
-      
-      <h1><a href="https://puckzxz.github.io/NotAnotherAnimeTheme/">NotAnotherAnimeTheme</a></h1>
-      
+.wrapper-3NnKdC,
+.scroller-1Bvpku {
+  background-color: transparent;
+}
 
-      <p align="center">
-<img src="https://raw.githubusercontent.com/puckzxz/NotAnotherAnimeTheme/master/image/header.jpg" />
-</p>
+/* FRIENDS SIDEBAR */
+.sidebar-2K8pFh {
+  background: transparent;
+}
+.privateChannels-1nO12o {
+  background-color: transparent;
+}
+.scroller-1JbKMe {
+  background-color: transparent;
+}
 
-<p align="center">
-    <a href="https://discord.gg/FdZhbjY" alt="Get Support">
-        <img src="https://img.shields.io/discord/412794678791110664.svg?label=Support&amp;logo=discord&amp;style=flat-square&amp;logoColor=%23ffffff&amp;colorB=%237289DA" /></a>
-    <a href="https://github.com/puckzxz/NotAnotherAnimeTheme/commits/master" alt="Latest Commit">
-        <img src="https://img.shields.io/github/last-commit/puckzxz/NotAnotherAnimeTheme.svg?logo=GitHub&amp;style=flat-square" /></a>
-</p>
+.searchBar-6Kv8R2 .searchBarComponent-32dTOx {
+  background-color: transparent;
+}
 
-<p>NotAnotherAnimeTheme is a highly customizable theme for Discord (with <a href="https://github.com/rauenzi/BetterDiscordApp/releases/latest">BetterDiscord</a> or <a href="https://powercord.dev/">Powercord</a>) allowing for a revitalized and fresh take on the Discord UI. Every part of the theme is customizable, from the background image to the scroll bar colors. The user has full control over the default configuration. Preview pictures can be found <a href="https://github.com/puckzxz/NotAnotherAnimeTheme#images-of-variations">here.</a></p>
+/* USER INFO */
+.panels-j1Uci_ {
+  background-color: transparent;
+}
 
-<h2 id="installation">Installation</h2>
-<h3 id="for-betterdiscord">For BetterDiscord</h3>
+.theme-dark .container-1D34oG {
+  background-color: transparent;
+}
 
-<ol>
-  <li>Ensure <a href="https://github.com/rauenzi/BetterDiscordApp/releases/latest">Bandaged BetterDiscord</a> is installed.</li>
-  <li>Download the theme here:
-    <ul>
-      <li><a href="https://betterdiscord.app/theme/NotAnotherAnimeTheme">NotAnotherAnimeTheme</a></li>
-    </ul>
-  </li>
-  <li>Place the theme file inside of the BetterDiscord <code class="language-plaintext highlighter-rouge">themes</code> folder.</li>
-  <li>Restart the Discord client either by right clicking the tray icon and clicking “Quit Discord” or by pressing Ctrl+R inside the client.</li>
-  <li>Go to User Settings in Discord &gt; Themes &gt; Select <code class="language-plaintext highlighter-rouge">NotAnotherAnimeTheme v3.2 by puckzxz#2080</code></li>
-</ol>
+.container-1r6BKw.themed-ANHk51 {
+  background: transparent;
+}
 
-<h3 id="for-powercord">For Powercord</h3>
-<ol>
-  <li>Ensure Powercord is installed on your computer. If not, install it <a href="https://powercord.dev/installation">here</a>.</li>
-  <li>Navigate to where the Powercord source files are on your computer</li>
-  <li>From the Powercord source folder, (Most likely named “powercord”) navigate to the themes folder: powercord -&gt; src -&gt; Powercord -&gt; themes.</li>
-  <li>Within this folder, create a new folder called “NotAnotherAnimeTheme”. Download the repository into the folder.</li>
-  <li>Great! NotAnotherAnimeTheme is now installed on your Discord client! If it’s running, restart it for the changes to take place.</li>
-</ol>
+.nowPlayingColumn-2sl4cE {
+  background: transparent;
+}
 
-<h2 id="faq">FAQ</h2>
+.headerNormal-1l1Znk {
+  background-color: var(--small-user-popout-background-transparency);
+}
 
-<h3 id="q-where-is-the-betterdiscord-theme-folder-located">Q: <em>Where is the BetterDiscord Theme folder located?</em></h3>
+.headerTop-2y3V6H {
+  background-color: transparent;
+  border-bottom: none;
+}
 
-<ul>
-  <li>Usually it is installed in ` %AppData%\BetterDiscord\themes`, however for a custom installation, the location can be found by going to User Settings in Discord &gt; Themes &gt; Open Theme Folder.</li>
-</ul>
+.avatar-22FtUu {
+  border: none;
+  background-color: transparent;
+}
 
-<h3 id="q-im-still-not-sure-on-how-to-install-this">Q: <em>I’m still not sure on how to install this</em></h3>
+.profileBanner-33-uE1 {
+  background-color: transparent !important;
+}
 
-<ul>
-  <li>Here is a video that goes through the steps for <a href="https://www.youtube.com/watch?v=1ML5_F-n5iw">downloading</a> and <a href="https://www.youtube.com/watch?v=R-aZTjHWRZc">installing</a> on BetterDiscord.</li>
-</ul>
+.input-2_SIlA {
+  background-color: transparent;
+}
 
-<h3 id="q-how-would-i-go-about-customizing-the-theme">Q: <em>How would I go about customizing the theme?</em></h3>
+.avatarHint-1E3LMl {
+  top: 0px !important;
+  left: 0px !important;
+}
 
-<ul>
-  <li>The details on how to customize the theme are <a href="https://www.youtube.com/watch?v=YYsdNkLOQjU">here.</a></li>
-</ul>
+/* CHAT SIDER */
+.container-3w7J-x {
+  background-color: transparent;
+}
 
-<h3 id="q-where-did-the-different-theme-files-go-for-the-amount-of-server-columns">Q: <em>Where did the different theme files go for the amount of server columns?</em></h3>
-<ul>
-  <li>Since V3 you now change the amount of columns from inside the theme file, <code class="language-plaintext highlighter-rouge">--server-listing-width</code></li>
-</ul>
+/* CHAT BODY */
+.chat-3bRxxu {
+  background: transparent;
+}
 
-<h2 id="contributing">Contributing</h2>
+/* CHAT MEMBERS */
+.members-1998pB,
+.members-1998pB > div {
+  background-color: transparent;
+}
 
-<p>Have you made something cool with NotAnotherAnimeTheme and feel like sharing it? Fork me and add it to the community folder! If you’re not git savvy you can either open an issue or just PM it to me on discord and I’ll add your theme!</p>
+/* CHAT INPUT */
+.channelTextArea-rNsIhG {
+  background-color: transparent;
+}
+.scrollableContainer-2NUZem {
+  background-color: var(--message-box-transparency);
+}
+.theme-dark .form-2fGMdU:before {
+  background: transparent;
+}
 
-<h2 id="support">Support</h2>
+/* SETTINGS */
+.layer-3QrUeG {
+  background-color: transparent;
+}
+.standardSidebarView-3F1I7i {
+  background-color: transparent;
+}
+.sidebarRegionScroller-3MXcoP {
+  background-color: transparent;
+}
+.contentRegion-3nDuYy {
+  background-color: transparent;
+}
+.contentRegionScroller-26nc1e {
+  background-color: transparent;
+}
+/* SETTINGS - PROFILE */
+.background-1QDuV2 {
+  background-color: transparent;
+}
+.fieldList-21DyL8 {
+  background-color: transparent;
+}
 
-<p>A Discord server was made for issues, support, comments, recommendations, etc.</p>
+/* CHAT SCROLLER */
+.auto-Ge5KZx::-webkit-scrollbar-track {
+  background-color: transparent;
+}
+/* SCROLL THUMB */
+.auto-Ge5KZx::-webkit-scrollbar-thumb {
+  background-color: var(--scrollbar-color);
+}
 
-<p><a href="https://discord.gg/FdZhbjY"><img src="https://canary.discordapp.com/api/guilds/412794678791110664/widget.png?style=banner3" /></a></p>
+/* EMBEDS */
+.embedFull-2tM8-- {
+  border-left: 4px solid var(--main-theme-color);
+  background: var(--embed-background-transparency);
+}
 
-<p>Any issues can be expressed by:</p>
+/* DAY CONTAINER */
+.content-1o0f9g {
+  color: var(--main-theme-color);
+  background: transparent;
+}
 
-<ul>
-  <li><a href="https://discord.gg/FdZhbjY">Joining the Discord server</a></li>
-  <li><a href="https://github.com/puckzxz/NotAnotherAnimeTheme/issues">Opening an issue on GitHub</a></li>
-  <li>Messaging me on Discord at puckzxz#2080</li>
-</ul>
+/* ANNOYANCES */
+.theme-dark .children-19S4PO:after {
+  background: transparent;
+}
 
-<h2 id="notes">Notes</h2>
+.tree-3tCaw8 {
+  outline: none;
+}
 
-<p>While the theme is Free and Open Source, it takes time to keep the theme up to date. If you enjoy the theme please consider supporting the Author to continue maintenance and development of it.</p>
+/* #region columns */
 
-<ul>
-  <li><a href="https://www.paypal.me/ChrisBock">Donate with PayPal</a></li>
-</ul>
+/* COLUMNS */
+.wrapper-3NnKdC {
+  width: var(--server-listing-width);
+}
 
-<p>In the appearance settings make sure <strong>Dark</strong> is selected.</p>
+.scrollerWrap-1IAIlv {
+  width: calc(var(--server-listing-width) + 6px);
+}
 
-<p>This theme is <strong>NOT</strong> minimal mode compatible.</p>
+.wrapper-3NnKdC .scroller-1Bvpku {
+  display: flex;
+  flex-flow: row wrap;
+  padding-left: 0;
+  align-content: flex-start;
+}
 
-<h2 id="acknowledgements">Acknowledgements</h2>
+.wrapper-3NnKdC .scroller-1Bvpku > div:not(.listItem-GuPuDH) > div {
+  width: 50px;
+  margin-left: 10px;
+}
 
-<ul>
-  <li>
-    <p>Thanks to <a href="https://github.com/ImVexed">V-X</a> for creating and hosting the CDN that NotAnotherAnimeTheme uses</p>
-  </li>
-  <li>
-    <p>Thanks to <a href="https://github.com/Qu4k3">Qu4k3</a> for helping with countless issues</p>
-  </li>
-</ul>
+.listItem-GuPuDH {
+  width: auto;
+  margin-left: 0px;
+}
 
-<h2 id="images-of-variations">Images of variations</h2>
+.wrapper-3NnKdC .scroller-1Bvpku > div.listItem-GuPuDH:nth-child(1) {
+  width: 100% !important;
+  margin-bottom: 8px;
+  margin-left: 2px;
+}
 
-<h3 id="single-column-server-list">Single Column Server List</h3>
+.wrapper-sa6paO {
+  height: 54px;
+  width: 54px;
+}
 
-<p><img src="https://i.imgur.com/UxFoW03.jpg" alt="NotAnotherAnimeThemeSCSL" /></p>
+.pill-31IEus {
+  left: -2px;
+  position: absolute;
+  top: -2px;
+}
 
-<h3 id="double-column-server-list">Double Column Server List</h3>
+.wrapper-3NnKdC .scroller-1Bvpku .guildSeparator-EOYZLM {
+  position: relative;
+  margin-top: 10px;
+  width: 80px;
+  display: block;
+  margin: 10px auto 5px;
+  margin-left: 24px;
+  background-color: transparent;
+}
 
-<p><img src="https://i.imgur.com/mw6SCPt.jpg" alt="NotAnotherAnimeTheme" /></p>
+.wrapper-21YSNc {
+  position: relative;
+  width: auto;
+}
 
-<h3 id="triple-column-server-list">Triple Column Server List</h3>
+@keyframes rainbow {
+  0% {
+    -webkit-filter: hue-rotate(0);
+    -moz-filter: hue-rotate(0);
+    -ms-filter: hue-rotate(0);
+    filter: hue-rotate(0);
+  }
+  100% {
+    -webkit-filter: hue-rotate(360deg);
+    -moz-filter: hue-rotate(360deg);
+    -ms-filter: hue-rotate(360deg);
+    filter: hue-rotate(360deg);
+  }
+}
 
-<p><img src="https://i.imgur.com/a5sdC2C.jpg" alt="NotAnotherAnimeThemeTCSL" /></p>
+.item-2hkk8m {
+  animation: var(--unread-server-animation) 3s linear infinite;
+  border: 2px solid var(--main-theme-color);
+  background: transparent;
+  border-radius: 100%;
+  display: block;
+  margin-left: 0;
+  margin-top: 0;
+  position: absolute;
+  top: -2px;
+  right: 3px !important;
+  width: 48px;
+  height: 48px !important;
+  transform: none !important;
+}
 
-<h3 id="quadruple-column-server-list">Quadruple Column Server List</h3>
+.wrapper-3NnKdC
+  .scroller-1Bvpku
+  > div.listItem-GuPuDH:nth-child(1)
+  .item-2hkk8m {
+  opacity: 0 !important;
+}
 
-<p><img src="https://i.imgur.com/EwgpmhY.jpg" alt="NotAnotherAnimeThemeQCSL" /></p>
+.item-2hkk8m:not([style*="height: 8px"]) {
+  border-color: transparent;
+  background-color: transparent;
+}
 
+.pill-1m5BUr {
+  display: none;
+}
 
-      
-      <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
-        This site is open source. <a href="https://github.com/puckzxz/NotAnotherAnimeTheme/edit/master/README.md">Improve this page</a>.
-      </div>
-      
-    </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-    <script>anchors.add();</script>
-  </body>
-</html>
+.wrapper-3NnKdC .scroller-1Bvpku > div {
+  display: flex;
+  flex-direction: column;
+  flex-flow: row wrap;
+}
+
+.tutorialContainer-2sGCg9 {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.expandedFolderBackground-2sPsd- {
+  left: 0px;
+}
+
+.tutorialContainer-2sGCg9 .listItem-GuPuDH {
+  right: 5px;
+}
+
+/* #endregion */
+
+/* VIDEO / SCREEN BUTTONS */
+.button-1YfofB.buttonColor-7qQbGO,
+.button-1YfofB .buttonColor-7qQbGO {
+  background-color: var(--video-screen-button-background-color);
+  color: var(--video-screen-button-foreground-color);
+}
+.button-1YfofB.buttonColor-7qQbGO:hover,
+.button-1YfofB .buttonColor-7qQbGO:hover {
+  background-color: var(--video-screen-button-background-hovor-color);
+  color: var(--video-screen-button-foreground-hovor-color);
+}
+
+/* FRIEND ACTIVITY */
+.wrapper-3D2qGf {
+  background-color: rgba(200, 200, 200, 0.1);
+}
+.theme-dark .inset-3sAvek {
+  background-color: rgba(200, 200, 200, 0.1);
+}
+.emptyCard-1RJw8n {
+  background: transparent;
+}
+
+/* FRIEND CALL/MESSAGE BUTTONS */
+.actionButton-uPB8Fs {
+  background-color: transparent;
+}
+
+/* Message Hover buttons */
+.wrapper-2aW0bm {
+  background-color: var(--message-hover-buttons-background);
+}
+
+/* Context menu */
+.menu-3sdvDG {
+  background: var(--context-menu-transparency);
+}
+
+/* Add Server / Discovery */
+.circleIconButton-1QV--U {
+  color: var(--add-discover-icon-color);
+  background-color: var(--add-discover-icon-transparency);
+}
+
+/* Loading chat placeholder */
+.wrapper-3vR61M {
+  background-color: transparent;
+}
+.wrapper-1F5TKx {
+  background-color: transparent;
+}
+
+/*Channel Limit*/
+.wrapper-2tAnRe {
+  color: var(--channel-limit-count-color);
+}
+/* Background left */
+.users-3kndPl {
+  background-color: var(--channel-limit-background-left);
+}
+/* Background right */
+.total-i6us2n:after {
+  border-right-color: var(--channel-limit-background-left);
+}
+.total-i6us2n {
+  background-color: var(--channel-limit-background-right);
+}
+
+/* Info Modal */
+.theme-dark .root-1gCeng {
+  box-shadow: none;
+}
+.theme-dark .footer-2gL1pp {
+  background-color: transparent;
+  box-shadow: none;
+}
+
+/* Channel category color */
+.wrapper-PY0fhH {
+  color: var(--main-theme-color);
+}
+.mainContent-2h-GEV .container-2ax-kl {
+  color: var(--main-theme-color);
+}
+.wrapper-PY0fhH.muted-2JBAyG:hover .icon-2yIBmh,
+.wrapper-PY0fhH.muted-2JBAyG:hover .name-3l27Hl,
+.wrapper-PY0fhH:hover .icon-2yIBmh,
+.wrapper-PY0fhH:hover .name-3l27Hl {
+  color: var(--category-hover-color);
+}
+
+/* Member Role title color */
+.membersGroup-v9BXpm {
+  color: var(--member-listing-role-color);
+}
+
+/* Channel scroller */
+.thin-1ybCId::-webkit-scrollbar-track {
+  border-color: transparent;
+  background-color: transparent;
+  border: transparent;
+}
+.thin-1ybCId::-webkit-scrollbar-thumb {
+  background-color: var(--scrollbar-color);
+}
+
+/* Small user popout */
+.userPopout-xaxa6l {
+  background-position: var(--small-user-popout-background-image-position);
+  background-image: var(--small-user-popout-background-image);
+}
+/* Regular Header */
+.theme-dark .headerNormal-1mX3KY {
+  background-color: var(--small-user-popout-background-transparency);
+}
+/* Gaming Header */
+.headerPlaying-j0WQBV {
+  background: var(--small-user-popout-background-transparency);
+}
+.headerTop-2cWpdB {
+  background-color: transparent;
+  border-bottom: none;
+}
+/* Spotify Header */
+.headerSpotify-zpWxgT {
+  background: var(--small-user-popout-background-transparency);
+}
+.theme-dark .body-3HBlXn,
+.theme-dark .footer-1N3bR3 {
+  background-color: var(--small-user-popout-background-transparency);
+  color: hsla(0, 0%, 100%, 0.8);
+}
+/* Add note */
+.textarea-2r0oV8:focus {
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+/* Big user popout */
+.root-3QyAh1 {
+  background-position: var(--big-user-popout-background-image-position);
+  background-image: var(--big-user-popout-background-image);
+  background-color: transparent;
+}
+/* Default header */
+.topSection-y3p-_D {
+  background-color: var(--big-user-popout-background-transparency);
+}
+/* Header gamer */
+.topSectionPlaying-1J5E4n {
+  background: var(--big-user-popout-background-transparency);
+}
+/* Header spotify */
+.topSectionSpotify-1lI0-P {
+  background: var(--big-user-popout-background-transparency);
+}
+.topSectionStreaming-1Tpf5X {
+  background: var(--big-user-popout-background-transparency);
+}
+.body-r6_QPy {
+  background-color: var(--big-user-popout-background-transparency);
+}
+.topSectionNormal-2-vo2m .tabBarContainer-1s1u-z {
+  border-top-color: transparent;
+}
+
+.tabBarContainer-37hZsr {
+  border-top: none;
+}
+
+/* Upload Dialog */
+.theme-dark .uploadModal-2ifh8j {
+  background-color: rgba(20, 20, 20, 0.6);
+  box-shadow: none;
+}
+.theme-dark .footer-3mqk7D {
+  background-color: rgba(20, 20, 20, 0.6);
+  box-shadow: none;
+}
+
+/* Role Listing */
+.scroller-305q3I {
+  background-color: transparent;
+}
+
+/* Moderation Listings */
+.item-26Dhrx {
+  background-color: transparent;
+}
+.item-26Dhrx[aria-checked="true"] {
+  background-color: rgba(200, 200, 200, 0.1);
+}
+
+/* Uploaded file in chat */
+.attachment-33OFj0 {
+  border-color: transparent;
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+/* Mentions */
+.mentioned-xhSam7:before {
+  background-color: var(--mention-sider);
+}
+.mentioned-xhSam7 {
+  position: relative;
+  background-color: var(--mention-color);
+}
+.message-2qnXI6.mentioned-xhSam7.selected-2P5D_Z,
+.mouse-mode.full-motion .mentioned-xhSam7:hover {
+  background-color: var(--mention-hover-color);
+}
+
+/* Code Markup */
+.markup-2BOw-j code {
+  background: var(--code-markup-background-color);
+  border: var(--code-markup-border);
+}
+
+/* quote */
+.blockquoteDivider-2hH8H6 {
+  background-color: var(--main-theme-color);
+}
+
+/* Library page */
+.scroller-1IIF0A {
+  background-color: transparent;
+}
+.header-39GIC8 {
+  background-color: transparent;
+  border-bottom: none;
+}
+.theme-dark .lookFilled-1Gx00P.colorPrimary-3b3xI6 {
+  color: #f6f6f7;
+  background-color: rgba(200, 200, 200, 0.2);
+}
+
+/* Nitro page */
+.scroller-9moviB {
+  background-color: transparent;
+}
+.applicationStore-1pNvnv {
+  background-color: transparent;
+}
+
+.wrapper-2qzCYF.minimum-28Z35l {
+  height: 240px;
+  background-color: transparent;
+}
+
+.content-yTz4x3:before {
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+.theme-dark .perksModal-fSYqOq {
+  background-color: transparent;
+}
+
+/* Unread Message Divider */
+.isUnread-3Ef-o9 {
+  border-color: var(--unread-message-divider-color);
+}
+
+.unreadPill-2HyYtt {
+  color: var(--unread-message-divider-font-color);
+  background-color: var(--unread-message-divider-color);
+}
+.unreadPillCapStroke-7rkHbg {
+  color: var(--unread-message-divider-color);
+  fill: var(--unread-message-divider-color);
+}
+
+/* New Messages Bar */
+.newMessagesBar-265mhP {
+  background-color: var(--new-messages-bar-background-color);
+}
+.newMessagesBar-265mhP button {
+  color: var(--new-messages-bar-font-color);
+}
+
+/* Emoji Menu */
+.contentWrapper-SvZHNd {
+  background-color: var(--emoji-menu-background-color);
+}
+
+.wrapper-2Gsate {
+  background-color: var(--emoji-menu-sider-background-color);
+}
+.unicodeShortcut-15J8Ck {
+  background-color: var(--emoji-menu-bottom-bar-background-color);
+}
+
+.inspector-S2gM3e {
+  background-color: var(--emoji-menu-bottom-bar-background-color);
+}
+
+.wrapper-1-Fsb8 {
+  background-color: var(--emoji-menu-server-header-background-color);
+}
+
+.container-2XeR5Z {
+  background-color: var(--emoji-menu-search-bar-background-color);
+}
+
+/* Search */
+.theme-dark .container-3ayLPN {
+  background-color: var(--message-search-menu-background-color);
+}
+
+.theme-dark .elevationBorderHigh-2WYJ09 {
+  box-shadow: none;
+}
+
+.theme-dark .option-96V44q.selected-rZcOL-:after {
+  background: none;
+}
+.theme-dark .option-96V44q:after {
+  background: none;
+}
+
+.searchResultsWrap-3-pOjs {
+  background-color: var(--message-search-container-background-color);
+}
+
+.searchHeader-2XoQg7 {
+  background-color: transparent;
+}
+
+.channelName-1JRO3C {
+  background: transparent;
+}
+
+.searchResult-9tQ1uo {
+  background-color: var(--message-search-result-background-color);
+}
+
+.wrapper-sa6paO {
+  overflow: visible;
+}
+
+.expandedFolderBackground-1cujaW {
+  left: 1px;
+}
+
+.wrapper-3NnKdC
+  .scroller-1Bvpku
+  div
+  .listItem-GuPuDH
+  .pill-1Z5PKm
+  .item-2hkk8m {
+  opacity: 0 !important;
+}
+
+.tree-2wKJdG:focus {
+  outline: none;
+}
+
+/* unread text channel color */
+.modeUnread-1qO3K1 .name-23GUGE {
+  color: var(--unread-text-channel-color);
+}
+
+/* Unread text channel bubble */
+.unread-2lAfLh {
+  background-color: var(--unread-text-channel-bubble-color);
+}
+
+/* channel hover */
+.modeMuted-onO3r-:hover .name-23GUGE,
+.wrapper-2jXpOf:hover .name-23GUGE {
+  color: var(--text-voice-channel-hover-color);
+}
+
+/* Channel color */
+.name-23GUGE {
+  color: var(--text-voice-channel-color);
+}
+
+/* Folder colors */
+.expandedFolderBackground-3ZDF05 {
+  background-color: var(--expanded-folder-background-color);
+}
+
+.folder-2w6LX1 {
+  background-color: var(--folder-background-color);
+}
+
+/* Friend activity */
+.container-lRFx4q {
+  background-color: transparent;
+}
+
+.section-2gLsgF {
+  background-color: transparent;
+}
+
+.theme-dark .outer-1AjyKL.active-1xchHY,
+.theme-dark .outer-1AjyKL.interactive-3B9GmY:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+.reaction-1hd86g {
+  background: var(--reaction-emoji-background-color);
+}
+
+.reaction-1hd86g:hover {
+  background-color: var(--reaction-emoji-hover-background-color);
+  border-color: var(--reaction-emoji-hover-border-color);
+}
+
+.stageSection-3mAD8V {
+  background: transparent;
+}
+
+.theme-dark .container-S9SaVf {
+  background-color: rgba(255, 255, 255, 0.08);
+}
+
+.theme-dark .container-S9SaVf:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.titleContainer-2CXtJo {
+  background-color: transparent;
+}
+
+.header-2mZ9Ov {
+  background-color: transparent;
+}
+
+.modeSelected-346R90 .name-23GUGE,
+.modeSelected-346R90:hover .name-23GUGE {
+  color: var(--text-voice-channel-selected-text-color);
+}
+
+html {
+  font-size: var(--font-size) !important;
+}
+
+.reaction-1hd86g {
+  border: var(--reaction-emoji-border-color);
+}
+
+.folderIconWrapper-1_bOZe {
+  border-radius: 100%;
+}
+
+.folder-1hbNCn {
+  border-radius: 100%;
+}
+
+.wrapper-2qzCYF {
+  background-color: transparent;
+}
+
+.aboutMeSection---MkQa {
+  background-color: transparent;
+}
+
+.bodyInnerWrapper-26fQXj {
+  background-color: transparent;
+}
+
+.headerTop-3vNv-a {
+  background-color: var(--small-user-popout-background-transparency);
+}
+
+.footer-3UKYOU {
+  background-color: var(--small-user-popout-background-transparency);
+  margin-top: 0;
+}
+
+.threadSidebar-1o3BTy {
+  background: transparent;
+}
+
+.container-3hZ-gs {
+  background-color: transparent;
+}
+
+.callContainer-36WRfH {
+  background: transparent;
+}
+
+.profileBannerPreview-3_l0Wd .headerTop-3vNv-a {
+  background-color: rgb(0, 0, 0, 0);
+}
+
+.listItem-1hlISG {
+  width: initial;
+}
+
+.pill-1Z5PKm .item-2hkk8m {
+  opacity: 0 !important;
+}
+
+.theme-dark .autocomplete-1vrmpx {
+  background-color: rgba(0, 0, 0, 0.7);
+  backdrop-filter: blur(5px);
+}
+
+.theme-dark .selected-1Tbx07 {
+  background-color: rgba(200, 200, 200, 0.15);
+}
+
+.translate-2dAEQ6.didRender-33z1u8 .emojiPicker-3PwZFl {
+  background-color: var(--emoji-menu-background-color);
+}
+
+.tutorialContainer-11ICd5 .wrapper-25eVIn .childWrapper-anI2G9 {
+  background: var(--home-icon-image) !important;
+  background-position: var(--home-icon-image-position) !important;
+  background-repeat: no-repeat !important;
+  background-size: var(--home-icon-image-zoom) !important;
+  border-radius: 100%;
+}
+
+.tutorialContainer-11ICd5
+  .wrapper-25eVIn
+  .childWrapper-anI2G9
+  .homeIcon-FuNwkv {
+  visibility: hidden;
+}
+
+.tutorialContainer-11ICd5
+  .listItem-GuPuDH
+  .listItemWrapper-KhRmzM
+  .wrapper-1BJsBx
+  .childWrapper-anI2G9 {
+  background-color: transparent;
+}
+
+.homeIcon-tEMBK1 {
+  visibility: hidden;
+}
+
+.tutorialContainer-11ICd5
+  .listItem-2Ig28I
+  .listItemWrapper-2MsAsM
+  .wrapper-1BJsBx
+  svg {
+  opacity: 0;
+}
+
+.tutorialContainer-11ICd5 {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.tutorialContainer-11ICd5 .listItem-GuPuDH {
+  right: 5px;
+}
+
+.listItem-2Ig28I {
+  width: initial;
+}
+
+.expandedFolderBackground-3ZDF05 {
+  left: 0px;
+}
+
+.folder-2w6LX1,
+.folderIconWrapper-1Ml_1q {
+  border-radius: 100%;
+}
+
+.container-2wlB3z {
+  background: transparent;
+}
+
+.guildSeparator-nWMCrR {
+  background-color: transparent;
+}
