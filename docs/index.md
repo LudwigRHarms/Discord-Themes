@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en-US">
   <head>
@@ -33,7 +34,7 @@
 
 <!-- end custom head snippets -->
 
-</head>
+  </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       
@@ -142,3 +143,33 @@
     <p>Thanks to <a href="https://github.com/Qu4k3">Qu4k3</a> for helping with countless issues</p>
   </li>
 </ul>
+
+<h2 id="images-of-variations">Images of variations</h2>
+
+<h3 id="single-column-server-list">Single Column Server List</h3>
+
+<p><img src="https://i.imgur.com/UxFoW03.jpg" alt="NotAnotherAnimeThemeSCSL" /></p>
+
+<h3 id="double-column-server-list">Double Column Server List</h3>
+
+<p><img src="https://i.imgur.com/mw6SCPt.jpg" alt="NotAnotherAnimeTheme" /></p>
+
+<h3 id="triple-column-server-list">Triple Column Server List</h3>
+
+<p><img src="https://i.imgur.com/a5sdC2C.jpg" alt="NotAnotherAnimeThemeTCSL" /></p>
+
+<h3 id="quadruple-column-server-list">Quadruple Column Server List</h3>
+
+<p><img src="https://i.imgur.com/EwgpmhY.jpg" alt="NotAnotherAnimeThemeQCSL" /></p>
+
+
+      
+      <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
+        This site is open source. <a href="https://github.com/puckzxz/NotAnotherAnimeTheme/edit/master/README.md">Improve this page</a>.
+      </div>
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
+</html>
