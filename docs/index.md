@@ -26,6 +26,8 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+[Link](https://github.com/LudwigRHarms/discord-themes/blob/f7dba6363e4d389bcfc8b6e3ba3d6082453214c0/docs/cherry%20blossom/cb.css)
+
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
